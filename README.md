@@ -1,6 +1,6 @@
-# Project Name
+# Magazine
 
-> One paragraph statement about the project.
+> A magazine article using CSS Grid (grid rows and grid columns)
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,23 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- p ,a ,i ,h1 ,h4
+- section
+- header
+- div
+- blockquote
+- article
+- ul, li
+- aside
+- CSS
+- universal selector
+- pseudo selector 
+- media query
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://16-fcc-magazine.netlify.app)
 
 ### Development (Running locally)
 
