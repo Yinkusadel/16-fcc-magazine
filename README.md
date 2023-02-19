@@ -19,7 +19,7 @@ Additional description of the project and its features.
 - aside
 - CSS
 - universal selector
-- pseudo selector 
+- pseudo selector
 - media query
 
 ## Live Demo
