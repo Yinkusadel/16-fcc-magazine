@@ -8,19 +8,26 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- p ,a ,i ,h1 ,h4
-- section
-- header
-- div
-- blockquote
-- article
-- ul, li
-- aside
-- CSS
-- universal selector
-- pseudo selector
-- media query
+- ### HTML5 elements
+  - **Heading element**
+    `h1` `h4` `h2` `h3` `h5` `h6`
+  - **Block element**
+    `div` `p` `header` `aside` `article` `section`
+  - **Inline element**
+    `span` `i` `a`
+  - **Form element like**
+    `select` `label` `textarea` `form` `input`
+  - **unordered list item**
+    `ul` `li`
+- ### CSS properties
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS background for page aesthetic using `background-color`,
+  - CSS selectors `class selector` `root selector` `universal selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
