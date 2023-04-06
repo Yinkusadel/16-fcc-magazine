@@ -18,6 +18,7 @@
   - **unordered list item**
     `ul` `li`
 - ### CSS properties
+  - CSS Grid `grid-template-column` ` grid-colum` ` grid-auto-flow` `grid-auto-column` `grid-template-rows`
   - CSS media query for page responsiveness using `@media` rule,
   - CSS background for page aesthetic using `background-color`,
   - CSS selectors `class selector` `root selector` `universal selector`
